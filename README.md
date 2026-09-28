@@ -1,56 +1,59 @@
-<div align="center">
-# 🩺 GG-PUR
-### Guías Gratis para la Prueba Única de Residencias de Uruguay
-*Resúmenes esquemáticos, actualizados y basados en la bibliografía oficial para la PUR.*
-[![Estado del contenido](https://img.shields.io/badge/Estado-En_desarrollo_/_Registro-orange?style=for-the-badge)](#)
-[![Licencia](https://img.shields.io/badge/Licencia-CC_BY--NC--ND_4.0-blue?style=for-the-badge)](./LICENSE)
-[![Aportar con Mercado Pago](https://img.shields.io/badge/Aportar_con-Mercado_Pago-blue?style=for-the-badge&logo=mercadopago)](https://link.mercadopago.com.uy/ggpur)
-</div>
----
-## 📌 Presentación del Proyecto
-**GG-PUR** es una iniciativa independiente creada con el objetivo de democratizar el acceso al material de estudio para la **Prueba Única de Residencias (PUR) de Uruguay**. 
-Todo el contenido disponible en este repositorio es de **acceso totalmente gratuito** y ha sido elaborado a partir de la síntesis de la bibliografía oficial recomendada.
----
-## 📚 Asignaturas y Guías de Estudio
-> 🔒 *Aviso de publicación:* Las guías de cada especialidad se irán habilitando para su descarga directa a medida que se complete el proceso de registro formal de propiedad intelectual ante el Consejo de Derechos de Autor (Biblioteca Nacional de Uruguay).
+# 🩺 GG-PUR: Guías Gratis para la Prueba Única de Residencias de Uruguay
 
-| Especialidad | Estado / Materiales | Enlace de Acceso |
-| :--- | :--- | :--- |
-| 🩺 **Medicina Clínica (Adultos)** | `En registro` | *Próximamente* |
-| 👶 **Pediatría y Neonatología** | `En registro` | *Próximamente* |
-| 🤰 **Ginecología y Obstetricia** | `En registro` | *Próximamente* |
-| 🔪 **Cirugía General** | `En registro` | *Próximamente* |
-| 🧠 **Psiquiatría** | `En registro` | *Próximamente* |
-| ⚖️ **Bioética y Medicina Legal** | `En registro` | *Próximamente* |
-| 🏥 **Medicina Familiar y Comunitaria** | `En registro` | *Próximamente* |
+Bienvenido a las **Guías Gratis para la Prueba Única de Residencias de Uruguay (GG-PUR)**. Este es un espacio para compartir resúmenes médicos 100% gratuitos para que los aspirantes cuenten con material de apoyo sin barreras económicas. 
+
+> ⚠️ **IMPORTANTE:** Este material **no sustituye** la lectura de la bibliografía oficial, el juicio clínico ni tampoco debe usarse como guía de práctica clínica.
+Este proyecto es una iniciativa privada e independiente y no tiene una vinculación oficial con la Facultad de Medicina (FMed), la Universidad de la República (UdelaR), el Ministerio de Salud Pública (MSP) ni con el comité evaluador de la PUR. La utilización de este material no garantiza la aprobación del exámen.
 
 ---
-## ⚖️ Derechos de Autor y Licencia de Uso
-© **2026 Victor (GuiasPurGratis)**. Todos los derechos reservados.
-Esta obra se encuentra protegida por la **Ley N° 17.616 de Propiedad Intelectual de la República Oriental del Uruguay** y el Convenio de Berna. Se distribuye públicamente bajo la licencia **Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)**.
-Usted es libre de compartir, copiar y redistribuir el material en cualquier medio o formato bajo las siguientes condiciones explícitas:
-1. **Atribución (BY):** Debe dar crédito de manera adecuada indicando la autoría original (`GG-PUR / GuiasPurGratis`) y proporcionar un enlace a la licencia o al repositorio.
-2. **No Comercial (NC):** Queda **estrictamente prohibida** la venta, comercialización, lucro directo o indirecto, alquiler o inclusión de este material en cursos de pago por parte de terceros.
-3. **Sin Derivadas (ND):** Si remezcla, transforma o crea a partir del material, **no podrá redistribuir** el material modificado.
-> ⚠️ **Advertencia sobre uso no autorizado:** Cualquier intento de apropiación, reventa o distribución modificada sin autorización expresa será perseguido bajo las acciones legales correspondientes según la legislación uruguaya aplicable.
+
+## ⚖️ Aviso Legal y Derechos de Autor
+
+Las GG-PUR son de libre acceso y están protegidas por derechos de autor. Queda **legalmente prohibida la apropiación, modificación, venta o lucro por parte de terceros** sobre el contenido aquí presentado.
+
+Uno de los objetivos de este proyecto es eliminar la barrera económica, basándome en el principio de democratización de la información porque el conocimiento es un bien público. Toda la bibliografía utilizada es de libre acceso.
+
 ---
-## 🚨 Deslinde de Responsabilidad (Disclaimer)
-### 1. Exoneración Médica y Asistencial
-El contenido presentado en este repositorio y en los archivos PDF adjuntos tiene un propósito **exclusivamente educativo, pedagógico y de preparación académica** para el examen de la PUR. 
-* **No constituye una guía de práctica clínica**, protocolo asistencial ni recomendación terapéutica.
-* **No debe ser utilizado** para la toma de decisiones médicas, diagnóstico o tratamiento de pacientes en la práctica real.
-* El autor no se hace responsable por eventuales errores u omisiones en el contenido ni por las consecuencias derivadas del uso inadecuado de la información.
-### 2. Exoneración Académica e Institucional
-Este proyecto es una iniciativa **privada e independiente** y **no tiene vinculación oficial** con la Facultad de Medicina (FMed), la Universidad de la República (UdelaR), el Ministerio de Salud Pública (MSP) ni con el comité evaluador de la Prueba Única de Residencias. La utilización de este material no garantiza la aprobación del examen.
+
+## 🛑 Disclaimer Médico y Académico
+
+1. **Práctica Clínica:** Las GG-PUR son material de apoyo para estudio y **no deben usarse como guías de práctica clínica**. No asumo ningún tipo de responsabilidad por la implementación de lo aquí descrito en la práctica clínica ni por las eventuales complicaciones. Te recomiendo revisar la guía de práctica clínica oficial más actualizada y aceptada por Uruguay o el protocolo institucional para el tema en cuestión.
+2. **Resultados Académicos:** La PUR es un sistema de evaluación dinámico donde es habitual que aparezcan preguntas sobre contenido fino. Debido a la naturaleza del examen, **no asumo ningún tipo de responsabilidad sobre tus resultados en el examen**.
+
 ---
-## 💳 Apoyo Voluntario al Proyecto
-El acceso al material es y seguirá siendo 100% gratuito. Si estas guías te resultan de utilidad para tu preparación y deseas apoyar las horas de trabajo, síntesis y mantenimiento del repositorio, puedes realizar una contribución voluntaria:
-<div align="center">
+
+## 📊 Estado del Contenido
+
+Las guías en PDF están en proceso de confección, registro y revisión, por lo que se liberarán gradualmente y se actualizarán sistemáticamente. 
+
+> 💡 **Fe de erratas:** Los resúmenes pueden tener errores de redacción, contenido u omisiones. En caso de identificarlos, te agradezco sugerirme los cambios mediante las *Issues* de este repositorio.
+
+---
+
+## 📂 Organización y Acceso al Contenido
+
+Las GG-PUR estarán en formato PDF disponibles para su lectura digital, descarga e impresión (se recomienda el uso digital por los enlaces interactivos hacia contenido público como Medicina Legal).
+
+A modo de economía cognitiva, organicé los temas de forma fluida:
+* **Medicina Clínica de Adultos:** Unifica Medicina Familiar y Comunitaria, Medicina Interna y trastornos tiroideos clínicos/quirúrgicos. También se unifican temas comunes en las distintas asignaturas.
+* **Estructura interna:** Verás mnemotecnias, tablas y esquemas propios. No se incluyen imágenes por copyright.
+* **Referencias a PUR previas:** El número al final de una frase redirige a una nota al pie con el año, la idea central, opciones de descarte en negrita y la respuesta de la cátedra.
+
+---
+
+## ☕ Apoyo al proyecto
+
+Si estas guías te resultaron útiles para preparar la PUR y deseas apoyar el tiempo dedicado a la creación de este contenido gratuito, puedes realizar una contribución voluntaria a través de Mercado Pago:
+
 [![Aportar con Mercado Pago](https://img.shields.io/badge/Aportar_con-Mercado_Pago-blue?style=for-the-badge&logo=mercadopago)](https://link.mercadopago.com.uy/ggpur)
-👉 **[Hacer una donación directa con Mercado Pago (Uruguay)](https://link.mercadopago.com.uy/ggpur)**
-</div>
+
+👉 **[Hacer una donación directa por Mercado Pago](https://link.mercadopago.com.uy/ggpur)**
 ---
-## 📩 Contacto y Reporte de Erratas
-Si encuentras algún error tipográfico, de concepto o quieres enviar sugerencias sobre las guías:
-* **GitHub Issues:** [Abre un reporte de errata aquí](https://github.com/GuiasPurGratis/GG-PUR/issues)
-* **Correo de contacto:** `guiaspur.gratis@gmail.com`
+
+## 💙 Mensaje para el Aspirante
+
+Todos debemos tener en cuenta que la PUR evalúa conocimientos y rankea a los aspirantes. Al ser un examen dinámico, habrán preguntas en las que se fallará. ¿Qué marcará la diferencia? Tu dedicación, esfuerzo y estudio responsable.
+
+**Te deseo el mejor resultado en el examen y que puedas acceder a esa especialidad que tanto te apasiona.**
+
+¡Ahora sí, comencemos!
