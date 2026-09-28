@@ -33,12 +33,10 @@ Las guías en PDF están en proceso de confección, registro y revisión, por lo
 
 Las GG-PUR estarán en formato PDF disponibles para su lectura digital, descarga e impresión (se recomienda el uso digital por los enlaces interactivos hacia contenido público como Medicina Legal).
 
-A modo de economía cognitiva, organizué los temas de forma fluida:
-* **Medicina Clínica de Adultos:** Unifica Medicina Familiar y Comunitaria, Medicina Interna y trastornos tiroideos clínicos/quirúrgicos.
+A modo de economía cognitiva, organicé los temas de forma fluida:
+* **Medicina Clínica de Adultos:** Unifica Medicina Familiar y Comunitaria, Medicina Interna y trastornos tiroideos clínicos/quirúrgicos. También se unifican temas comunes en las distintas asignaturas.
 * **Estructura interna:** Verás mnemotecnias, tablas y esquemas propios. No se incluyen imágenes por copyright.
 * **Referencias a PUR previas:** El número al final de una frase redirige a una nota al pie con el año, la idea central, opciones de descarte en negrita y la respuesta de la cátedra.
-
-*(Aquí insertas tus botones cuando subas las carpetas)*
 
 ---
 
@@ -46,7 +44,7 @@ A modo de economía cognitiva, organizué los temas de forma fluida:
 
 Si gustas agradecer por el tiempo y esfuerzo dedicado a este proyecto, te invito a realizar una donación económica totalmente voluntaria (sin mínimo ni máximo):
 
-👉 **[Apoyar en Cafecito](https://cafecito.app/tu_usuario)**
+[![Invítame un Cafecito](https://img.shields.io/badge/Invítame_un-Cafecito-png?style=for-the-badge&logo=coffeescript&color=blue)](https://cafecito.app/guiaspur.gratis)
 
 ---
 
