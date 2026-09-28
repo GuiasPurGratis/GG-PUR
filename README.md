@@ -40,12 +40,13 @@ A modo de economía cognitiva, organicé los temas de forma fluida:
 
 ---
 
-## ☕ Donaciones (Cafecito)
+## ☕ Apoyo al proyecto
 
-Si gustas agradecer por el tiempo y esfuerzo dedicado a este proyecto, te invito a realizar una donación económica totalmente voluntaria (sin mínimo ni máximo):
+Si estas guías te resultaron útiles para preparar la PUR y deseas apoyar el tiempo dedicado a la creación de este contenido gratuito, puedes realizar una contribución voluntaria a través de Mercado Pago:
 
-[![Invítame un Cafecito](https://img.shields.io/badge/Invítame_un-Cafecito-png?style=for-the-badge&logo=coffeescript&color=blue)](https://cafecito.app/guiaspur.gratis)
+[![Aportar con Mercado Pago](https://img.shields.io/badge/Aportar_con-Mercado_Pago-blue?style=for-the-badge&logo=mercadopago)](https://link.mercadopago.com.uy/ggpur)
 
+👉 **[Hacer una donación directa por Mercado Pago](https://link.mercadopago.com.uy/ggpur)**
 ---
 
 ## 💙 Mensaje para el Aspirante
