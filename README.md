@@ -41,6 +41,10 @@ A modo de economía cognitiva, organicé los temas de forma fluida:
 
 ---
 
+### 🚀 [ACCEDER A LA CARPETA DE GUÍAS EN PDF (GOOGLE DRIVE)](https://drive.google.com/drive/u/1/folders/1fj6jlJPxJ5yftnsOMNTtgOi3xXrV68Qo)
+
+---
+
 ## ☕ Apoyo al proyecto
 
 Si estas guías te resultaron útiles para preparar la PUR y deseas apoyar el tiempo dedicado a la creación de este contenido gratuito, puedes realizar una contribución voluntaria a través de Mercado Pago:
