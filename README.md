@@ -41,6 +41,37 @@ A modo de economía cognitiva, organicé los temas de forma fluida:
 
 ---
 
+## 📚 Guías de Estudio por Materia
+
+A continuación, encontrarás el acceso a las guías disponibles y su marco legal correspondiente.
+
+### ⚖️ Medicina Legal y Bioética
+*   **[📄 Descargar Guía de Medicina Legal y Bioética](./Medicina_Legal_y_Bioetica.pdf)**
+
+<details>
+<summary>🔍 Ver enlaces interactivos de ampliación (Leyes IMPO)</summary>
+
+*   [Ley N° 18335: Consentimiento Informado y Confidencialidad](https://impo.com.uy)
+*   [Ley N° 17823: Código de la Niñez y la Adolescencia](https://impo.com.uy)
+*   [Ley N° 18473: Voluntad Anticipada](https://impo.com.uy)
+*   [Ley N° 20431: Regulación de la Eutanasia](https://impo.com.uy)
+*   [Ley N° 19628: Certificado de Defunción](https://impo.com.uy)
+*   [Ley N° 18987: Interrupción Voluntaria del Embarazo (IVE)](https://impo.com.uy)
+</details>
+
+---
+
+### ⏳ Próximas Guías (En confección)
+Las siguientes materias se habilitarán gradualmente a medida que finalice su revisión:
+
+*   **🤰 Ginecología** *(Próximamente)*
+*   **🥼 Cirugía General** *(Próximamente)*
+*   **🏥 Medicina Clínica de Adultos** *(Próximamente)*
+*   **👶 Pediatría** *(Próximamente)*
+*   **🧠 Psiquiatría** *(Próximamente)*
+
+---
+
 ## ☕ Apoyo al proyecto
 
 Si estas guías te resultaron útiles para preparar la PUR y deseas apoyar el tiempo dedicado a la creación de este contenido gratuito, puedes realizar una contribución voluntaria a través de Mercado Pago:
