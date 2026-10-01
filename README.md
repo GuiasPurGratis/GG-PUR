@@ -3,7 +3,7 @@
 Bienvenido a las **Guías Gratis para la Prueba Única de Residencias de Uruguay (GG-PUR)**. Este es un espacio para compartir resúmenes médicos 100% gratuitos para que los aspirantes cuenten con material de apoyo sin barreras económicas. 
 
 > ⚠️ **IMPORTANTE:** 
-Este proyecto es una iniciativa privada e independiente y no tiene una vinculación con ninguna institución u organización.Este material **no sustituye** la lectura de la bibliografía oficial, el juicio clínico ni tampoco debe usarse como guía de práctica clínica.
+Este proyecto es una iniciativa privada e independiente y no tiene una vinculación con ninguna institución u organización.
 
 
 ---
