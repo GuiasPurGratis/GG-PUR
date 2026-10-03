@@ -46,15 +46,23 @@ A modo de economía cognitiva, organicé los temas de forma fluida:
 
 ---
 
-<!-- Ejemplo para el botón de Descarga PDF -->
-<a href="#" style="background-color: #534E53; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
-    Descarga PDF
-</a>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <!-- Bloque Izquierdo: Gris Mercado Pago -->
+      <td bgcolor="#534E53" style="padding: 10px 15px; border-top-left-radius: 6px; border-bottom-left-radius: 6px;">
+        <font color="#ffffff" face="Arial, sans-serif" size="3"><b>DESCARGA PDF EN</b></font>
+      </td>
+      <!-- Bloque Derecho: Verde Pantone Google Drive -->
+      <td bgcolor="#1FA463" style="padding: 10px 15px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;">
+        <a href="https://drive.google.com/drive/folders/1fj6jlJPxJ5yftnsOMNTtgOi3xXrV68Qo" target="_blank" style="text-decoration: none;">
+          <font color="#ffffff" face="Arial, sans-serif" size="3"><b>GOOGLE DRIVE 🚀</b></font>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-<a href="TU_ENLACE_DE_GOOGLE_DRIVE_AQUÍ" target="_blank" style="background-color: #1FA463; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
-    Google Drive 🚀
-</a>
 
 
 ---
