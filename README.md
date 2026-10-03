@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo_GG-PUR.jpg" alt="Logo GG-PUR" width="220" style="border-radius: 15px;">
+</p>
+
 # GG-PUR: Guías Gratis para la Prueba Única de Residencias de Uruguay
 
 Bienvenido a las **Guías Gratis para la Prueba Única de Residencias de Uruguay (GG-PUR)**. Este es un espacio para compartir resúmenes médicos 100% gratuitos para que los aspirantes cuenten con material de apoyo sin barreras económicas. 
