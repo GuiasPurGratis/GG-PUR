@@ -45,6 +45,13 @@ A modo de economía cognitiva, organicé los temas de forma fluida:
 * **Estructura interna:** Verás mnemotecnias, tablas y esquemas propios. No se incluyen imágenes por copyright.
 * **Referencias a PUR previas:** El número al final de una frase redirige a una nota al pie con el año, la idea central, opciones de descarte en negrita y la respuesta de la cátedra.
 
+### ✍️ Estado de las Guías:
+* 🟢 🤰 **Ginecología:** Listo y actualizado.
+* 🟢 ⚖ **Bioética y Medicina Legal:** Listo y actualizado.
+* 🟡 🧠 **Psiquiatría:** En proceso de revisión (sale este finde).
+* 🟠 🩺 **Medicina Clínica de Adultos:** En proceso de confección y revisión.
+* 🟠 🥼 **Cirugía General:** En proceso de confección y revisión.
+
 ---
 
 <div align="center">
