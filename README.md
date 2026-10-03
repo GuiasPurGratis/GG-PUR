@@ -22,7 +22,8 @@ Uno de los objetivos de este proyecto es eliminar la barrera económica, basánd
 
 ## 🛑 Disclaimer Médico y Académico
 
-1. **Práctica Clínica:** Las GG-PUR son material de apoyo para estudio y **no deben usarse como guías de práctica clínica**. No asumo ningún tipo de responsabilidad por la implementación de lo aquí descrito en la práctica clínica ni por las eventuales complicaciones. Te recomiendo revisar la guía de práctica clínica oficial más actualizada y aceptada por Uruguay o el protocolo institucional para el tema en cuestión.
+1. **Práctica Clínica:** Las GG-PUR son material de apoyo para estudio y **no deben usarse como guías de práctica clínica (GPC)**, no asumo ningún tipo de responsabilidad por su uso indebido. 
+Para uso asistencial te recomiendo revisar la GPC oficial más actualizada y aceptada por Uruguay o el protocolo institucional para el tema en cuestión.
 2. **Resultados Académicos:** La PUR es un sistema de evaluación dinámico donde es habitual que aparezcan preguntas sobre contenido fino. Debido a la naturaleza del examen, **no asumo ningún tipo de responsabilidad sobre tus resultados en el examen**.
 
 ---
