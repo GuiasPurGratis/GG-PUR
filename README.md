@@ -46,11 +46,21 @@ A modo de economía cognitiva, organicé los temas de forma fluida:
 
 ---
 
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1fj6jlJPxJ5yftnsOMNTtgOi3xXrV68Qo" target="_blank">
-    <img src="https://shields.io" alt="Descarga PDF en Google Drive" height="40">
-  </a>
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td bgcolor="#24292e" style="padding: 10px 15px; border-top-left-radius: 6px; border-bottom-left-radius: 6px;">
+        <font color="#ffffff" face="Arial, sans-serif" size="3"><b>DESCARGA PDF EN</b></font>
+      </td>
+      <td bgcolor="#34a853" style="padding: 10px 15px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;">
+        <a href=https://drive.google.com/drive/folders/1fj6jlJPxJ5yftnsOMNTtgOi3xXrV68Qo" target="_blank" style="text-decoration: none;">
+          <font color="#ffffff" face="Arial, sans-serif" size="3"><b>GOOGLE DRIVE 🚀</b></font>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
