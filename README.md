@@ -49,20 +49,17 @@ A modo de economía cognitiva, organicé los temas de forma fluida:
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <!-- Bloque Izquierdo: Gris Mercado Pago -->
-      <td style="background-color: #534E53; padding: 10px 15px; border-top-left-radius: 6px; border-bottom-left-radius: 6px;">
+      <td bgcolor="green" style="padding: 10px 15px; border-top-left-radius: 6px; border-bottom-left-radius: 6px;">
         <font color="#ffffff" face="Arial, sans-serif" size="3"><b>DESCARGA PDF EN</b></font>
       </td>
-      <!-- Bloque Derecho: Verde Pantone Google Drive -->
-      <td style="background-color: #1FA463; padding: 10px 15px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;">
-        <a href="https://drive.google.com/drive/folders/1fj6jlJPxJ5yftnsOMNTtgOi3xXrV68Qo" target="_blank" style="text-decoration: none;">
+      <td bgcolor="green" style="padding: 10px 15px; border-top-right-radius: 6px; border-bottom-right-radius: 6px;">
+        <a href=https://drive.google.com/drive/folders/1fj6jlJPxJ5yftnsOMNTtgOi3xXrV68Qo" target="_blank" style="text-decoration: none;">
           <font color="#ffffff" face="Arial, sans-serif" size="3"><b>GOOGLE DRIVE 🚀</b></font>
         </a>
       </td>
     </tr>
   </table>
 </div>
-
 
 ---
 
