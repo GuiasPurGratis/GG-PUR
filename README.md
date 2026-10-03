@@ -51,6 +51,7 @@ A modo de economía cognitiva, organicé los temas de forma fluida:
 * 🟡 🧠 **Psiquiatría:** En proceso de revisión (sale este finde).
 * 🟠 🩺 **Medicina Clínica de Adultos:** En proceso de confección y revisión.
 * 🟠 🥼 **Cirugía General:** En proceso de confección y revisión.
+* 🟠 👨‍👦‍👦 **Pediatría:** En proceso de confección y revisión.
 
 ---
 
