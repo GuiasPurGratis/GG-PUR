@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_GG-PUR.jpg" alt="Logo GG-PUR" width="220" style="border-radius: 15px;">
+  <img src="logo_GG-PUR.jpg" alt="Logo GG-PUR" width="220" style="border: 1px solid #e1e4e8; background-color: #f6f8fa; padding: 10px; border-radius: 16px;">
 </p>
 
 # GG-PUR: Guías Gratis para la Prueba Única de Residencias de Uruguay
