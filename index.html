@@ -8,15 +8,22 @@
         body { font-family: Arial, sans-serif; text-align: center; padding: 40px; background-color: #f4f7f6; color: #333; }
         h1 { color: #0070f3; }
         p { font-size: 1.1em; max-width: 600px; margin: 20px auto; line-height: 1.5; }
-        .btn { display: inline-block; padding: 12px 24px; margin: 10px; font-size: 1em; font-weight: bold; text-decoration: none; border-radius: 5px; color: white; }
+        .btn-container { display: flex; flex-direction: column; align-items: center; gap: 15px; margin-top: 30px; }
+        .btn { display: inline-block; width: 80%; max-width: 300px; padding: 14px 24px; font-size: 1em; font-weight: bold; text-decoration: none; border-radius: 6px; color: white; transition: background 0.2s; }
         .btn-drive { background-color: #34a853; }
+        .btn-drive:hover { background-color: #2d8f47; }
+        .btn-mp { background-color: #009ee3; }
+        .btn-mp:hover { background-color: #0086c3; }
     </style>
 </head>
 <body>
     <h1>GG-PUR</h1>
     <p>Bienvenido a las Guías Gratis para la Prueba Única de Residencias de Uruguay. Espacio para compartir resúmenes médicos 100% gratuitos.</p>
     
-    <a href="https://drive.google.com/drive/folders/1fj6jlJPxJ5yftnsOMNTtgOi3xXrV68Qo" class="btn btn-drive" target="_blank">🚀 Acceder a las Guías (Google Drive)</a>
+    <div class="btn-container">
+        <!-- REEMPLAZA SOLO LO QUE ESTÁ ENTRE COMILLAS EN ESTOS DOS ENLACES -->
+        <a href="https://drive.google.com/drive/folders/1fj6jlJPxJ5yftnsOMNTtgOi3xXrV68Qo" class="btn btn-drive" target="_blank">🚀 Acceder a las Guías (Google Drive)</a>
+        <a href="link.mercadopago.com.uy/ggpur" class="btn btn-mp" target="_blank">☕ Apoyar con Mercado Pago</a>
+    </div>
 </body>
 </html>
-
