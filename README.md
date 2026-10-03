@@ -47,12 +47,13 @@ A modo de economía cognitiva, organicé los temas de forma fluida:
 ---
 
 <p align="center">
-  <a href=https://drive.google.com/drive/folders/1fj6jlJPxJ5yftnsOMNTtgOi3xXrV68Qo" target="_blank" style="text-decoration: none;">
+  <a href="https://drive.google.com/drive/folders/1fj6jlJPxJ5yftnsOMNTtgOi3xXrV68Qo" target="_blank" style="text-decoration: none;">
     <span style="display: inline-block; background: linear-gradient(135deg, #0070f3, #00a4ff); color: white; font-weight: bold; font-size: 1.1em; padding: 14px 28px; border-radius: 50px; box-shadow: 0 4px 15px rgba(0, 112, 243, 0.3); transition: transform 0.2s;">
       🚀 ACCEDER A LA CARPETA DE GUÍAS EN PDF (GOOGLE DRIVE)
     </span>
   </a>
 </p>
+
 
 ---
 
