@@ -48,12 +48,12 @@ Hay temas que se reorganizan.
 * **Referencias a PUR previas:** El número al final de una frase redirige a una nota al pie con el año, la idea central, opciones de descarte en negrita y la respuesta de la cátedra.
 
 ### ✍️ Estado de las Guías:
-* 🟢 🤰 **Ginecología:** Listo y actualizado.
-* 🟢 ⚖ **Bioética y Medicina Legal:** Listo y actualizado.
-* 🟢 🧠 **Psiquiatría:** Listo y actualizado.
-* 🟡 🩺 **Medicina Clínica de Adultos:** En proceso de revisión (sale esta semana).
-* 🟠 🥼 **Cirugía General:** En proceso de confección y revisión.
-* 🟠 👨‍👦‍👦 **Pediatría:** En proceso de confección y revisión.
+* ✅️ 🤰 **Ginecología:** Listo y actualizado.
+* ✅️ ⚖ **Bioética y Medicina Legal:** Listo y actualizado.
+* ✅️ 🧠 **Psiquiatría:** Listo y actualizado.
+* 🔎 🩺 **Medicina Clínica de Adultos:** En proceso de revisión (sale esta semana).
+* ✍️ 🥼 **Cirugía General:** En proceso de confección y revisión.
+* ✍️ 👨‍👦‍👦 **Pediatría:** En proceso de confección y revisión.
 
 ---
 
