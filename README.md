@@ -41,15 +41,17 @@ Las guías en PDF están en proceso de confección, registro y revisión, por lo
 Las GG-PUR estarán en formato PDF disponibles para su lectura digital, descarga e impresión (se recomienda el uso digital por los enlaces interactivos hacia contenido público como Medicina Legal).
 
 A modo de economía cognitiva, organicé los temas de forma fluida:
-* **Medicina Clínica de Adultos:** Unifica Medicina Familiar y Comunitaria, Medicina Interna y trastornos tiroideos clínicos/quirúrgicos. También se unifican temas comunes en las distintas asignaturas.
+* **Medicina Clínica de Adultos:** Unifica Medicina Familiar y Comunitaria, Medicina Interna y trastornos tiroideos clínicos/quirúrgicos. 
+También se unifican temas comunes en las distintas asignaturas.
+Hay temas que se reorganizan.
 * **Estructura interna:** Verás mnemotecnias, tablas y esquemas propios. No se incluyen imágenes por copyright.
 * **Referencias a PUR previas:** El número al final de una frase redirige a una nota al pie con el año, la idea central, opciones de descarte en negrita y la respuesta de la cátedra.
 
 ### ✍️ Estado de las Guías:
 * 🟢 🤰 **Ginecología:** Listo y actualizado.
 * 🟢 ⚖ **Bioética y Medicina Legal:** Listo y actualizado.
-* 🟡 🧠 **Psiquiatría:** En proceso de revisión (sale este finde).
-* 🟠 🩺 **Medicina Clínica de Adultos:** En proceso de confección y revisión.
+* 🟢 🧠 **Psiquiatría:** Listo y actualizado.
+* 🟡 🩺 **Medicina Clínica de Adultos:** En proceso de revisión (sale esta semana).
 * 🟠 🥼 **Cirugía General:** En proceso de confección y revisión.
 * 🟠 👨‍👦‍👦 **Pediatría:** En proceso de confección y revisión.
 
