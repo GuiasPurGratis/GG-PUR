@@ -85,7 +85,7 @@ Si estas guías te resultaron útiles para preparar la PUR y deseas apoyar el ti
 👉 **[Hacer una donación directa por Mercado Pago](https://link.mercadopago.com.uy/ggpur)**
 ---
 
-## 💙 Mensaje para el Aspirante
+## 💙 Mensaje para tí:
 
 Todos debemos tener en cuenta que la PUR evalúa conocimientos y rankea a los aspirantes. Al ser un examen dinámico, habrán preguntas en las que se fallará. ¿Qué marcará la diferencia? Tu dedicación, esfuerzo y estudio responsable.
 
