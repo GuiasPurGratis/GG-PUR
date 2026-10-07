@@ -51,7 +51,7 @@ Hay temas que se reorganizan.
 * ✅️ 🤰 **Ginecología:** Actualizado 2026.
 * ✅️ ⚖ **Bioética y Medicina Legal:** Actualizado 2026.
 * ✅️ 🧠 **Psiquiatría:** Actualizado 2026.
-* 🔎 🩺 **Medicina Clínica de Adultos:** En proceso de revisión (sale esta semana).
+* ✅️ 🩺 **Medicina Clínica de Adultos:** Actualizado 2026.
 * ✍️ 🥼 **Cirugía General:** En proceso de confección y revisión.
 * ✍️ 👨‍👦‍👦 **Pediatría:** En proceso de confección y revisión.
 
