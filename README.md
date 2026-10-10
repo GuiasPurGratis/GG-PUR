@@ -57,6 +57,12 @@ Hay temas que se reorganizan.
 
 ---
 
+## 📚 Para acceder a videos organizados de la PUR y simulador de preguntas podés acceder al siguiente enlace:
+
+https://videospururuguay.github.io
+
+---
+
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
