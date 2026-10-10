@@ -57,12 +57,6 @@ Hay temas que se reorganizan.
 
 ---
 
-## 📚 Para acceder a videos organizados de la PUR y simulador de preguntas podés acceder al siguiente enlace:
-
-https://videospururuguay.github.io
-
----
-
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
@@ -89,6 +83,12 @@ Si estas guías te resultaron útiles para preparar la PUR y deseas apoyar el ti
 [![Aportar con Mercado Pago](https://img.shields.io/badge/Aportar_con-Mercado_Pago-blue?style=for-the-badge&logo=mercadopago)](https://link.mercadopago.com.uy/ggpur)
 
 👉 **[Hacer una donación directa por Mercado Pago](https://link.mercadopago.com.uy/ggpur)**
+---
+
+## 📚 Para acceder a videos organizados de la PUR y simulador de preguntas podés acceder al siguiente enlace:
+
+https://videospururuguay.github.io
+
 ---
 
 ## 💙 Mensaje para tí:
