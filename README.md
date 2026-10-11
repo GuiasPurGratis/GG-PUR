@@ -85,7 +85,8 @@ Si estas guías te resultaron útiles para preparar la PUR y deseas apoyar el ti
 👉 **[Hacer una donación directa por Mercado Pago](https://link.mercadopago.com.uy/ggpur)**
 ---
 
-## 📚 Para acceder a videos organizados de la PUR y simulador de preguntas podés acceder al siguiente enlace:
+## 📚 Enlace a videos y simulador:
+Para acceder a videos organizados de la PUR y simulador de preguntas podés acceder al siguiente enlace:
 
 https://videospururuguay.github.io
 
