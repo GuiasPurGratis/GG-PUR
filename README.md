@@ -47,6 +47,16 @@ Hay temas que se reorganizan.
 * **Estructura interna:** Verás mnemotecnias, tablas y esquemas propios. No se incluyen imágenes por copyright.
 * **Referencias a PUR previas:** El número al final de una frase redirige a una nota al pie con el año, la idea central, opciones de descarte en negrita y la respuesta de la cátedra.
 
+### ✍ Estado de las Guías:
+
+* 🤰 **Ginecología:** Actualizado 2026. [![Ver en Drive](https://shields.io)](https://drive.google.com/file/d/10sEg4yEx8k4tjJFqo1_z-atLPW6gTGFC/view?usp=drivesdk)
+* ⚖ **Bioética y Medicina Legal:** Actualizado 2026. [![Ver en Drive](https://shields.io)](https://drive.google.com/file/d/1NGv8f21nHhkgX7bmRmwgD_9a0MOlKf0p/view?usp=drivesdk)
+* 🧠 **Psiquiatría:** Actualizado 2026. [![Ver en Drive](https://shields.io)](https://drive.google.com/file/d/112qdymXGJOkr_p9Eb3M5IV6Y85AOut65/view?usp=drivesdk)
+* 🩺 **Medicina Clínica de Adultos:** Actualizado 2026. [![Ver en Drive](https://shields.io)](https://drive.google.com/file/d/1gtHR-OtXptyEUJV3ww8_sLr3PGhoBzQu/view?usp=drivesdk)
+* 🥼 **Cirugía General:** Actualizado 2026. [![Ver en Drive](https://shields.io)](https://drive.google.com/file/d/16fNdhR_Pnra6-fWUj2-pbcPIeYRuj7zw/view?usp=drivesdk)
+* ✍️ 👨‍👦‍👦 **Pediatría:** En proceso de confección y revisión.
+
+
 ### ✍️ Estado de las Guías:
 * ✅️ 🤰 **Ginecología:** Actualizado 2026.
 * ✅️ ⚖ **Bioética y Medicina Legal:** Actualizado 2026.
